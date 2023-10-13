@@ -1,0 +1,16 @@
+
+Q)Write unit tests for your API endpoints.
+Include a brief description of your testing strategy.
+
+
+
+
+Unit test for api endpoints
+
+1) For creating a todolist item -> http://localhost:5000/todos and using post method
+
+2) For Retrieving a todolist item -> http://localhost:5000/todos and using get method
+
+3) For updating a todo-list item -> http://localhost:5000/todos/id and put method
+
+4) For Deleting a todo-list item -> http://localhost:5000/todos/id and Delete method
